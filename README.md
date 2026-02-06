@@ -21,5 +21,3 @@ _Experienced in **Mobile**, **Backend**, and **ML**._
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufcanyenilmez/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yenilmezyusufcan@gmail.com)
-
----

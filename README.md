@@ -6,6 +6,8 @@ I enjoy exploring diverse software domains and gaining experience by working wit
 
 _Experienced in **Mobile**, **Backend**, and **ML**._
 
+Currently focusing on evolving into a **Full Stack Developer**. 🚀
+
 <br>
 
 ## 💻 Tech Stack
@@ -15,6 +17,18 @@ _Experienced in **Mobile**, **Backend**, and **ML**._
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<br>
+
+## ⚡ Fun Facts
+
+📚 History lover & explorer.
+
+🎮 Strategy games enthusiast.
+
+🏃‍♂️ Former athlete with medals.
+
+💪 Gym, football, basketball.
 
 <br>
 

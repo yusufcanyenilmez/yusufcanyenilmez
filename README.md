@@ -2,11 +2,12 @@
 
 ### I'm Yusuf Can, a software engineer based in Türkiye.
 
-I enjoy exploring diverse software domains and gaining experience by working with various technologies. I strive to write **clean**, **secure**, and **scalable** code.
+🔍 I enjoy exploring **diverse software domains** and **gaining experience** by working with **various technologies**. 
 
-_Experienced in **Mobile**, **Backend**, and **ML**._
+🛠 I strive to write **clean**, **secure**, and **scalable** code.
 
-Currently focusing on evolving into a **Full Stack Developer**. 🚀
+🎯 Currently focusing on evolving into a **Full Stack Developer**.
+  > _Experienced in **Mobile**, **Backend**, and **ML**._
 
 <br>
 
